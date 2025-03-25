@@ -180,9 +180,7 @@ This project is proprietary and confidential. Unauthorized copying, use, distrib
 
 ## 👥 Contributors
 
-- [Your Name]
-- [Team Members]
-
+- [Hai Son Nguyen]
 ---
 
 *Developed for HDBank Hackathon 2024*
