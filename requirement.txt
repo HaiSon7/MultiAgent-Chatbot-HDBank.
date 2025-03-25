@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-community
+vector-database
+streamlit
+transformers
+torch
+qdrant-client
+langchain-qdrant
+langchain-huggingface

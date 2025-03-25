@@ -1,0 +1,217 @@
+
+==================================================
+Time: 2024-11-27 11:11:18
+User: unknown
+Input: Xin chào
+==================================================
+
+[assistant]: Xin chào! 😊  Bạn muốn tìm hiểu về gì? 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:11:56
+User: unknown
+Input: Bạn là ai
+==================================================
+
+[assistant]: Tôi là Assistant AI, Nhân viên tư vấn khách hàng của HDBank. 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:13:12
+User: unknown
+Input: Hãy nói về HDBank Vietjjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjjet Platinum là chương trình tri ân của HDBank dành cho khách hàng thân thiết, nhằm thể hiện cam kết mang lại lợi ích cao nhất cho khách hàng. Chương trình này cung cấp nhiều ưu đãi và quà tặng cho khách hàng, bao gồm:
+
+* Tặng 200 điểm thưởng khi mở mới TKTT và tham gia Hội viên
+* Ưu đãi tốt trên đa dạng sản phẩm dịch vụ để đổi lấy quà tặng từ 250 thương hiệu
+* Không giới hạn điểm thưởng, tích và đổi điểm không giới hạn số lượng và thời gian
+* Ưu đãi và quà tặng đến từ 250 thương hiệu đối tác
+* Tự động tích điểm khi thỏa điều kiện theo quy định
+
+Khách hàng cần sử dụng dịch vụ eBanking của HDBank để tham gia chương trình này.
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:24:13
+User: unknown
+Input: hạn mức tín dụng là bao nhiêu
+==================================================
+
+[retriever_product]: Hạn mức tín dụng của HDBank Vietjjet Platinum không được cung cấp thông tin cụ thể. Tuy nhiên, tôi có thể cung cấp thông tin về các sản phẩm tín dụng khác của HDBank:
+
+* Tín dụng cá nhân: Hạn mức tín dụng tối đa 500 triệu đồng.
+* Tín dụng kinh doanh: Hạn mức tín dụng tối đa 2 tỷ đồng.
+* Tín dụng tiêu dùng: Hạn mức tín dụng tối đa 300 triệu đồng.
+
+Xin lưu ý rằng hạn mức tín dụng có thể thay đổi tùy thuộc vào các điều kiện và yêu cầu của khách hàng. Để có thông tin chính xác, bạn nên liên hệ trực tiếp với HDBank hoặc kiểm tra trang web chính thức của ngân hàng.
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:38:55
+User: unknown
+Input: Thu NSNN cho cơ quan thuế tại quầy giao dịch & nộp thuế điện tử
+==================================================
+
+[retriever_product]: Bạn có thể thu NSNN cho cơ quan thuế tại quầy giao dịch và nộp thuế điện tử thông qua dịch vụ "Chi tại quầy" của HDBank. Dịch vụ này cung cấp lợi ích như an toàn, chủ động, nhanh chóng cho người nhận. Để thực hiện, bạn cần mang theo CMND, giấy tờ tuỳ thân đến quầy giao dịch HDBank và nhân viên quầy sẽ chi trả tiền kiều hối cho bạn.
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:43:34
+User: unknown
+Input: xin chào
+==================================================
+
+[assistant]: Xin chào! 👋  
+
+Bạn muốn hỏi gì hôm nay? 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:43:50
+User: unknown
+Input:  Bạn là ai
+==================================================
+
+[assistant]: Tôi là Assistant AI của HDBank. 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:44:49
+User: unknown
+Input: Thu NSNN cho cơ quan thuế tại quầy giao dịch & nộp thuế điện tử
+==================================================
+
+[retriever_product]: Bạn có thể thực hiện việc nộp thuế điện tử và thu NSNN cho cơ quan thuế tại quầy giao dịch của HDBank theo các bước sau:
+
+1. Chọn chuyển tiền về VN qua HDBank.
+2. Thông tin tài khoản (chi chuyển khoản).
+3. CMND/CCCD/PP của người nhận (chi tại quầy/tại nhà).
+
+HDBank có hơn 320 điểm giao dịch trên toàn quốc, giúp bạn chọn được điểm giao dịch gần nhất để nhận tiền.
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:47:07
+User: unknown
+Input: Xin chào
+==================================================
+
+[assistant]: Xin chào! 👋 
+
+Bạn có muốn tôi giúp gì không? 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-27 11:59:26
+User: unknown
+Input: Xin chào
+==================================================
+
+==================================================
+
+==================================================
+Timestamp: 2024-11-27 12:08:17
+User: Unknown
+Language: Vietnamese
+Input: Xin chào
+==================================================
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+[None - 12:08:17]:
+Xin chào
+
+==================================================
+
+==================================================
+Timestamp: 2024-11-27 12:08:20
+User: Unknown
+Language: Vietnamese
+Input: Xin chào
+==================================================
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+[None - 12:08:20]:
+Xin chào
+
+==================================================

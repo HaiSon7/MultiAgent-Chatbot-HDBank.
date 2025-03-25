@@ -1,0 +1,338 @@
+
+==================================================
+Time: 2024-11-21 14:07:35
+User: unknown
+Input: xin chào
+==================================================
+
+[assistant]: Chào bạn! 👋  Bạn cần hỗ trợ gì hôm nay? 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:08:23
+User: gì
+Input: bạn tên là gì
+==================================================
+
+[assistant]: Chào bạn, tôi là Huỳnh.  Bạn muốn tìm hiểu về sản phẩm nào? 🙂 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:08:47
+User: gì
+Input: bậy òi
+==================================================
+
+[assistant]: Vui lòng cho tôi biết bạn cần hỗ trợ về sản phẩm nào, tôi sẽ cố gắng giúp bạn! 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:10:34
+User: unknown
+Input: xin chào
+==================================================
+
+[assistant]: Chào bạn! 👋  Rất vui được hỗ trợ bạn hôm nay. 
+Bạn muốn tìm hiểu về sản phẩm gì nào? 
+
+Hãy cho tôi biết thêm thông tin, ví dụ như ngân hàng của bạn hoặc mục đích sử dụng vốn, ... để mình có thể giới thiệu cho bạn những sản phẩm phù hợp nhất.
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:11:19
+User: gì
+Input: bạn tên là gì
+==================================================
+
+[assistant]: Chào bạn!  Tôi là AI Assistant của HD Bank. 😊 
+Bạn muốn tìm hiểu về sản phẩm nào hôm nay? 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:14:00
+User: gì
+Input: HÃy nói về HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như miễn lãi tối đa 55 ngày, miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ, hạn mức tín dụng lên đến 10 tỷ đồng và an toàn bảo mật với chip EMV.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:16:18
+User: gì
+Input: HÃy nói về HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như:
+
+* Miễn lãi tối đa 55 ngày
+* Miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ
+* Hạn mức tín dụng lên đến 10 tỷ đồng
+* An toàn bảo mật với chip EMV, công nghệ xác thực thanh toán 3D - Secure.
+
+Tổng quan, HDBank Vietjet Platinum là một lựa chọn tuyệt vời cho những người muốn có một thẻ tín dụng cao cấp với nhiều ưu đãi và tính năng an toàn.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:16:57
+User: gì
+Input: LINK?
+==================================================
+
+[retriever_product]: Bạn có thể tìm hiểu thêm về HDBank Vietjet Platinum tại địa chỉ: https://hdbank.com.vn/vi/personal/product/detail/the/the-tin-dung/hdbank-vietjet-platinum
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:31:02
+User: gì
+Input: HÃy nói về HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như:
+
+* Miễn lãi tối đa 55 ngày
+* Miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ
+* Hạn mức tín dụng lên đến 10 tỷ đồng
+* An toàn bảo mật với chip EMV, công nghệ xác thực thanh toán 3D - Secure.
+
+Thẻ này được dành cho mọi người trên 18 tuổi.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:47:48
+User: unknown
+Input: Xin chào
+==================================================
+
+[assistant]: Chào bạn! 👋  Rất vui được giúp bạn.
+Bạn muốn tìm hiểu về sản phẩm gì hôm nay? 😊 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:48:46
+User: unknown
+Input: Hãy nói về HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như miễn lãi tối đa 55 ngày, miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ, hạn mức tín dụng lên đến 10 tỷ đồng, và an toàn bảo mật với chip EMV, công nghệ xác thực thanh toán 3D - Secure.
+
+Tổng quan, HDBank Vietjet Platinum là một lựa chọn tốt cho những người muốn có một thẻ tín dụng cao cấp với nhiều ưu đãi và tính năng hữu ích.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:49:05
+User: unknown
+Input: link
+==================================================
+
+[assistant]: [https://www.hdbank.com.vn/product/vietjet-platinum](https://www.hdbank.com.vn/product/vietjet-platinum) 
+
+
+Bạn có muốn xem thêm thông tin về thẻ này? 😊  
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:49:51
+User: unknown
+Input: link sai ?
+==================================================
+
+[retriever_product]: Tôi xin lỗi vì liên kết trước đó không chính xác. Tuy nhiên, tôi có thể cung cấp thông tin chi tiết về HDBank Vietjet Platinum từ nguồn thông tin khác.
+
+Nếu bạn muốn xem thêm thông tin về thẻ này, bạn có thể truy cập trang web chính thức của HDBank tại [https://www.hdbank.com.vn/](https://www.hdbank.com.vn/). Tại trang web này, bạn có thể tìm thấy thông tin chi tiết về các sản phẩm và dịch vụ của HDBank, bao gồm cả thẻ Vietjet Platinum.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:51:17
+User: unknown
+Input: xIN CHÀO
+==================================================
+
+[assistant]: Chào bạn! 😊  Rất vui được hỗ trợ bạn hôm nay.
+Bạn muốn tìm hiểu về sản phẩm gì? 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:52:50
+User: unknown
+Input: HD Bank Vietjet Platinum
+==================================================
+
+[retriever_product]: Tôi xin lỗi, nhưng tôi không thể tìm thấy thông tin cụ thể về sản phẩm "HD Bank Vietjet Platinum". Tuy nhiên, tôi có thể cung cấp cho bạn thông tin chung về các loại thẻ tín dụng của HD Bank và Vietjet Air.
+
+HD Bank là một trong những ngân hàng lớn nhất tại Việt Nam, cung cấp nhiều dịch vụ tài chính bao gồm thẻ tín dụng. Thẻ tín dụng của HD Bank được thiết kế để đáp ứng nhu cầu thanh toán của khách hàng, với các tính năng như:
+
+* Thanh toán trực tuyến
+* Mua sắm trên mạng
+* Dịch vụ du lịch
+* Dịch vụ ăn uống
+
+Vietjet Air là một hãng hàng không giá rẻ tại Việt Nam, cung cấp dịch vụ bay giá rẻ cho khách hàng. Thẻ tín dụng Vietjet Platinum của HD Bank được thiết kế để đáp ứng nhu cầu thanh toán của khách hàng khi sử dụng dịch vụ của Vietjet Air, với các tính năng như:
+
+* Thanh toán vé máy bay
+* Mua sắm trên mạng
+* Dịch vụ ăn uống
+* Điểm thưởng
+
+Nếu bạn muốn tìm hiểu thêm về sản phẩm này, vui lòng cho tôi biết và tôi sẽ cố gắng giúp bạn.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:53:42
+User: unknown
+Input: HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như miễn lãi tối đa 55 ngày, miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ, hạn mức tín dụng lên đến 10 tỷ đồng và an toàn bảo mật với chip EMV.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:57:35
+User: unknown
+Input: Xin chào
+==================================================
+
+[assistant]: Chào bạn! 😊  Bạn cần hỗ trợ về gì hôm nay? 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:57:54
+User: gì
+Input: Bạn tên là gì
+==================================================
+
+[assistant]: Tôi là AI, nhân viên tư vấn của HD Bank.  👋  Bạn muốn hỏi gì hôm nay?
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:58:55
+User: gì
+Input: Hãy nói về HDBank Vietjet Platinum
+==================================================
+
+[retriever_product]: HDBank Vietjet Platinum là một thẻ tín dụng đồng thương hiệu cao cấp được HDBank và Vietjet Air hợp tác ra mắt. Thẻ này cung cấp nhiều ưu đãi vượt trội về mua sắm, du lịch, bao gồm:
+
+* Tặng 5% khi mua vé máy bay Vietjet Air
+* Hoàn tiền 0,3% không giới hạn khi chi tiêu
+* Bảo hiểm du lịch toàn cầu đến 12 tỷ đồng
+* Ưu tiên check-in quầy Vietjet tại sân bay dành cho chủ thẻ
+* Giảm đến 30% chi phí đặt phòng, ăn uống hoặc dịch vụ giải trí tại các địa điểm liên kết của HDBank
+* Chủ thẻ được phục vụ theo hotline VIP 1800 6868 của HDBank
+
+Thẻ này cũng có nhiều tính năng khác như miễn lãi tối đa 55 ngày, miễn phí thường niên năm đầu thẻ chính và chủ thẻ phụ, hạn mức tín dụng lên đến 10 tỷ đồng và an toàn bảo mật với chip EMV, công nghệ xác thực thanh toán 3D - Secure.
+
+Tổng quan, HDBank Vietjet Platinum là một lựa chọn tuyệt vời cho những người muốn có một thẻ tín dụng cao cấp với nhiều ưu đãi và tính năng hữu ích.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:59:16
+User: gì
+Input: link?
+==================================================
+
+[retriever_product]: Xin lỗi, tôi không thể tìm thấy thông tin về "HDBank Vietjet Platinum" trên internet. Có thể bạn muốn hỏi về một sản phẩm hoặc dịch vụ khác?
+
+Nếu bạn cần tìm kiếm thông tin về một sản phẩm cụ thể, vui lòng cung cấp thêm thông tin để tôi có thể giúp bạn tốt hơn.
+
+==================================================
+
+==================================================
+Time: 2024-11-21 14:59:44
+User: gì
+Input: link?
+==================================================
+
+[assistant]: Tôi xin lỗi, tôi không thể truy cập vào internet để cung cấp link. Bạn có muốn thử tìm kiếm thông tin trên website HDBank hoặc trang web của Vietjet Air? 
+
+
+==================================================
+
+==================================================
+Time: 2024-11-21 15:00:25
+User: gì
+Input: tìm thử trong product list coiu
+==================================================
+
+[assistant]: Bạn muốn xem danh sách sản phẩm, dịch vụ của HDBank? 
+
+Tôi xin lỗi, tôi không thể truy cập vào internet để cung cấp link. Bạn có muốn thử tìm kiếm thông tin trên website HDBank hoặc trang web của Vietjet Air? 
+
+
+
+
+
+==================================================

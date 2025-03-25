@@ -1,0 +1,27 @@
+stateDiagram-v2
+    [*] --> Supervisor
+    
+    state "Supervisor" as Supervisor {
+        [*] --> Classify
+        Classify --> CHAT
+        Classify --> QUERY
+        CHAT --> Assistant
+        QUERY --> Retriever
+    }
+    
+    Supervisor --> Assistant: For chat/general queries
+    Supervisor --> Retriever: For product queries
+    Supervisor --> Searcher: If no product found
+    
+    Retriever --> Supervisor: Return product info
+    Searcher --> Supervisor: Return search results
+    Assistant --> Supervisor: Return response
+    
+    Supervisor --> [*]: When complete
+
+    note right of Supervisor
+        Makes routing decisions based on:
+        1. Query type (CHAT vs QUERY)
+        2. Cache status
+        3. Previous responses
+    end note
