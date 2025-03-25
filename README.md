@@ -1,7 +1,5 @@
 # HDBank Multi-Agent Chatbot System
 
-![HDBank Logo](https://www.hdbank.com.vn/sites/default/files/hdbank_logo-01_2.jpg)
-
 ## 🌟 Overview
 
 The HDBank Multi-Agent Chatbot is an advanced AI assistant designed to provide accurate and contextually relevant information about HDBank's products and services. This system leverages a multi-agent architecture to process queries through specialized components, ensuring high accuracy and comprehensive responses.
@@ -14,7 +12,7 @@ The system employs a sophisticated multi-agent architecture where different spec
 User Query → Supervisor → Product Cache → Retriever → Searcher → Assistant → Response
 ```
 
-![Architecture Flowchart](https://mermaid.ink/img/pako:eNp1kLFuAjEMhl_F8gQSA1yBOhSpEyMdYMhgJRdOVy4xiuOKqoq8e50DIdQyxP7__fbs40BaaZAUm7Z7jV1AscWo3fjkiS3s2h9eRQqDKLtVjLbCZ1pFGkXZRxyhHXIbFjl-c8iK5WzTQI_1MksBMX8vHlDlqc-Lz-oy9UsmP7g5n90lZg0xXJcgQ06PaEuG_J92R2bslRWPnY5a69JOQqtzHl0EjSp1JJsGy0v-k7k9S2CnPPd9GhVpbTVBNEHG6TZf5uuvNKvg4Y1xBq3jJUGpaBdoxYPGNzv1OCeGYIyoYDx-AQepfJM)
+![Architecture Flowchart]()
 
 ### Key Components:
 
