@@ -84,6 +84,7 @@ The system uses Qdrant vector database with HuggingFace embeddings specifically 
 4. For general queries, routes directly to the assistant
 5. Assistant generates a natural language response
 
+![Architecture Flow](src_langgraph/Screenshot 2024-11-28 093215.png)
 ## 🚀 Installation and Setup
 
 ### Prerequisites
