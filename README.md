@@ -12,7 +12,7 @@ The system employs a sophisticated multi-agent architecture where different spec
 User Query → Supervisor → Product Cache → Retriever → Searcher → Assistant → Response
 ```
 
-![Architecture Flowchart]()
+![Architecture Flowchart](src_langgraph/graph_test.png)
 
 ### Key Components:
 
